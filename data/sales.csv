@@ -1,0 +1,7 @@
+OrderID,Product,City,Sales,Quantity
+101,Laptop,Delhi,55000,1
+102,Mouse,Kanpur,500,2
+103,Keyboard,Delhi,1500,1
+104,Monitor,Lucknow,12000,1
+105,Mouse,Kanpur,,3
+106,Laptop,Delhi,55000,1

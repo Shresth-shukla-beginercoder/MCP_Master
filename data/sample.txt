@@ -1,0 +1,5 @@
+MCP stands for Model Context Protocol.
+
+MCP allows AI applications to connect to external tools and data sources.
+
+This is a sample file for testing real file reading through an MCP server.
