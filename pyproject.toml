@@ -11,6 +11,7 @@ description = "MCP server, client, and LangChain integration"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "fastapi>=0.115.0",
     "fastmcp>=4.1.0",
     "langchain-google-genai>=4.4.2",
     "langchain[mcp]>=1.4.6",
